@@ -6,4 +6,4 @@ screenshot 👇👇👇
 
 Full Video 👇👇👇
 
-![Border Animation](https://youtu.be/wqb0kaRdyyA)
+https://youtu.be/wqb0kaRdyyA
